@@ -1,0 +1,1 @@
+This project demonstrates configuring basic firewall rules using Windows Firewall and UFW on Linux, allowing and denying traffic on specific ports and IPs. The rules were verified using networking tools and screenshots/logs were documented as evidence.
